@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zakaria Khalafi
+- 👋 Hi, I’m Zakaria Khalafi
 - 👀 I’m interested in web development and mobile applications.
 - 🌱 I’m currently learning about web technologies.
 - 💞️ I’m looking for internship to develop my technical skills and become valuable addition to your web development team.
